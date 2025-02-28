@@ -1,0 +1,29 @@
+import React from "react";
+
+const Home = () => {
+  return (
+    <section id="home" className="h-screen flex flex-col justify-center items-center text-center bg-[#222834]">
+      <div className="text-justify">
+        <h2 className="text-3xl font-semibold text-gray-300">
+          Hi, I'm <span className="text-cyan-400">Vishal Meshram</span>
+        </h2>
+        <h1 className="text-5xl font-extrabold mt-3 text-gray-200">
+          I'm a{" "}
+          <span className="mt-2 text-cyan-500 animate-pulse">
+            FULL STACK DEVELOPER
+          </span>
+        </h1>
+        <p className="text-lg text-gray-400 mt-4 max-w-2xl">
+          Passionate about building scalable web applications with modern technologies. I specialize in the MERN stack, creating seamless user experiences.
+        </p>
+        <div className="mt-6">
+          <a className="px-6 py-3 bg-cyan-600 text-white font-semibold rounded-lg shadow-md hover:bg-cyan-700 transition-all">
+            Download my CV
+          </a>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default Home;

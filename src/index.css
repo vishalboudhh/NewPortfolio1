@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+  background-color: #0A0E15;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scrollbar-width: none;
+  scroll-behavior: smooth;
+
+}
+
+body {
+  overflow-y: scroll;
+}
+
