@@ -26,7 +26,7 @@ const Projects = () => {
             {/* Project 2 */}
             <div className="bg-gray-600 rounded-lg shadow-lg overflow-hidden transform transition-all duration-300 hover:scale-105 hover:-translate-y-2 cursor-pointer">
               <img
-                onClick={() => window.open('https://doctor-app-1jsh.onrender.com/', '_blank')}
+                onClick={() => window.open('https://doctorappointmentsystem-lq6g.onrender.com/login', '_blank')}
                 src="https://gloriumtech.com/wp-content/uploads/2021/12/Doctor-Appointment-Scheduling-App-Development_-Features-Solutions.png"
                 alt="Doctor Appointment Booking System"
                 className="w-full h-48 object-cover"
