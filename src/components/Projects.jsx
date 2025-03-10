@@ -69,7 +69,7 @@ const Projects = () => {
             {/* Project 5 */}
             <div className="bg-gray-600 text-white rounded-lg shadow-lg overflow-hidden transform transition-all duration-300 hover:scale-105 hover:-translate-y-2 cursor-pointer">
               <img
-                onClick={() => window.open('https://chat-app-node-react-63le.vercel.app/', '_blank')}
+                onClick={() => window.open('https://fullstackchatapp-s8ce.onrender.com/login', '_blank')}
                 src="https://cdn.vectorstock.com/i/500p/38/05/chat-talk-communication-logo-vector-19963805.jpg"
                 alt="Chat App"
                 className="w-full h-48 object-cover"
