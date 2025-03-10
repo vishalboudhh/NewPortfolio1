@@ -56,7 +56,7 @@ const Projects = () => {
             {/* Project 4 */}
             <div className="bg-gray-600 rounded-lg shadow-lg overflow-hidden transform transition-all duration-300 hover:scale-105 hover:-translate-y-2 cursor-pointer">
               <img
-                onClick={() => window.open('https://employee-management-system-three-navy.vercel.app/', '_blank')}
+                onClick={() => window.open('https://ems-five-lemon.vercel.app/', '_blank')}
                 src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/684/247/datas/original.png"
                 alt="Employee Management System"
                 className="w-full h-48 object-cover"
