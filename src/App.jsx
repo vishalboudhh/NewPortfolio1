@@ -16,6 +16,7 @@ const App = () => {
       <Skills/>
       <Projects/>
       <Contact>
+        
     </div>
   )
 }
