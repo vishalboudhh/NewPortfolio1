@@ -19,7 +19,7 @@ const Home = () => {
         <div className="mt-6">
           <a
             className="px-6 py-3 bg-cyan-600 text-white font-semibold rounded-lg shadow-md hover:bg-cyan-700 transition-all"
-            href="https://drive.google.com/file/d/1MClQFJ3KwbV4VCZAzwq8wXI23Sy27cGe/view?usp=sharing"
+            href="https://drive.google.com/file/d/1rv27mzq18x2b5m1sPhDQjppTU0NQGbYV/view?usp=sharing"
             download
           >
             Download my CV
