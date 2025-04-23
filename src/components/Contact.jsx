@@ -103,7 +103,8 @@ const Contact = () => {
             {isSending ? 'Sending...' : 'Send Message'}
           </button>
         </form>
-        <p className='mt-2'>To contact me send me mail</p>
+        <p className='mt-2 text-center'>To contact me send me mail</p>
+        <p className="mt-2 text-center">Email:- vishalmeshram2111@gmail.com</p>
       </div>
 
       <ul className="flex justify-center space-x-6 mt-12">
