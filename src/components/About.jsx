@@ -15,7 +15,7 @@ const About = () => {
         <div className="md:w-1/2 flex justify-center p-4">
           <img 
             className="rounded-full w-48 h-48 md:w-64 md:h-64 object-cover" 
-            src="https://media.licdn.com/dms/image/v2/D4D03AQGRKx624qt0nA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693910085890?e=1746057600&v=beta&t=0mo7oQoMFnQJo5qqt6hsDETg_KhVYUvnYPTL5reDS2U" 
+            src="https://media.licdn.com/dms/image/v2/D4D03AQGRKx624qt0nA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1693910085890?e=1755129600&v=beta&t=HA3MrJDxbqkVaiwF92Zogjc5q9frQBWU8VdL8W1210c" 
             alt="Vishal Meshram" 
           />
         </div>
